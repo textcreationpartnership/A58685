@@ -1,0 +1,181 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Act of His Majesties Privy Council of Scotland for a solemn and publick thanksgiving upon the birth of the most serene and high-born-prince, the Prince and Stewart of Scotland, Prince of Wales, &amp;c. the Prince and Stewart of Scotland, Prince of Wales, &amp;c. : born at St. James's the 10 of June, 1688.</title>
+            <author>Scotland. Privy Council.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1688</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 4 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A58685</idno>
+            <idno type="STC">Wing S1454</idno>
+            <idno type="STC">ESTC R221208</idno>
+            <idno type="EEBO-CITATION">07918764</idno>
+            <idno type="OCLC">ocm 07918764</idno>
+            <idno type="VID">40454</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A58685)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 40454)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1212:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Act of His Majesties Privy Council of Scotland for a solemn and publick thanksgiving upon the birth of the most serene and high-born-prince, the Prince and Stewart of Scotland, Prince of Wales, &amp;c. the Prince and Stewart of Scotland, Prince of Wales, &amp;c. : born at St. James's the 10 of June, 1688.</title>
+                  <author>Scotland. Privy Council.</author>
+               </titleStmt>
+               <extent>1 broadside.   </extent>
+               <publicationStmt>
+                  <publisher>Heir of Andrew Anderson,</publisher>
+                  <pubPlace>[Edinburgh? :</pubPlace>
+                  <date>1688?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from the NUC pre-1956 entry.</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>James, --  Prince of Wales, 1688-1766.</term>
+               <term>Great Britain --  History --  James II, 1685-1688.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:40454:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 4 -->
+            <head>
+               <figure>
+                  <p>I<hi rend="sup">7</hi> R</p>
+                  <p>DIEV ET MON DROIT</p>
+                  <p>HONI SOIT QVI MAL Y PENSE</p>
+                  <figDesc>royal blazon or coat of arms</figDesc>
+               </figure>
+            </head>
+            <head>
+               <hi>ACT</hi> Of His Majeſties Privy Council of <hi>Scotland,</hi> for a ſolemn and publick Thankſgiving, upon the Birth of the moſt Serene, and High-Born-Prince, the Prince and Stewart of <hi>Scotland,</hi> Prince of <hi>VVales.</hi> &amp;c. Born at St. <hi>James</hi>'s <date>the 10of <hi>June</hi> 1688.</date>
+            </head>
+            <head type="sub">
+               <list>
+                  <head>Preſent in Council.</head>
+                  <item>The Earl of <hi>Perth, &amp;c.</hi> Lord High Chancellor.</item>
+                  <item>The Lord Arch-Biſhop of <hi>St. Andrews.</hi>
+                  </item>
+                  <item>The Lord Duke of <hi>Hamilton.</hi>
+                  </item>
+                  <item>The Lord Marqueſs of <hi>Douglaſs.</hi>
+                  </item>
+                  <item>The Earl of <hi>Linlithgow.</hi>
+                  </item>
+                  <item>The Earl of <hi>Lauderdale.</hi>
+                  </item>
+                  <item>The Earl of <hi>Airlie.</hi>
+                  </item>
+                  <item>The Earl of <hi>Belcarras.</hi>
+                  </item>
+                  <item>The Lord Viſcount <hi>Tarbat.</hi>
+                  </item>
+                  <item>The Maſter of <hi>Balmerino.</hi>
+                  </item>
+                  <item>The Lord Preſident of Seſſion.</item>
+                  <item>The Lord Advocat.</item>
+                  <item>The Lord Juſtice Clerk.</item>
+                  <item>The Lord <hi>Caſtlehill.</hi>
+                  </item>
+                  <item>Major General <hi>Grahame</hi> of <hi>Claverhouſe.</hi>
+                  </item>
+                  <item>The Laird of <hi>Nidry.</hi>
+                  </item>
+               </list>
+            </head>
+            <opener>
+               <dateline>Edinburgh, <date>the fourteenth day of <hi>June,</hi> 1688.</date>
+               </dateline>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg>T having pleaſed the Almighty GOD, by whom Kings Reign, to bleſs His Sacred <hi>Majeſty,</hi> our Auguſt and Glorious Monarch, and in Him us his dutiful and happy Subjects, with the Birth of the moſt Serene and High-Born-Prince, the <hi>Prince</hi> and <hi>Stewart</hi> of <hi>Scotland,</hi> &amp;c. by His Royal Conſort, Our G<gap reason="illegible" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>ous Queen <hi>Mary.</hi> And theſe glad News being <gap reason="illegible: damage" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <gap reason="illegible" extent="5+ letters">
+                  <desc>•••••…</desc>
+               </gap>at<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d to  by a moſt welcome Letter under His Royal Hand, VVe in acknowledgement of this great Bleſſing, do in the firſt place thank the great King of Hea<g ref="char:EOLhyphen"/>ven for ſo extraordinary a mercy, fitted to unite all our Hearts, and prevent all our Jealouſies: Not doubting but that all His <hi>Majesties</hi> Loyal Subjects will expreſs their ſolemn and ſincere Joy, upon ſo ſignal an Occaſion, and that they will put up their ardent Prayers to the Almighty, to whom they owe this hopeful Prince, for prolong<g ref="char:EOLhyphen"/>ing His Life, in which they ought to be concerned, as in their chief Earthly Bleſſing, next to that of His Royal Parents, whom GOD preſerve. And for this end, VVe the Lords of His <hi>Majeſties</hi> Privy Council do by His <hi>Majeſties</hi> ſpecial VVarrant, Appoint and Ordain, that a Solemn and Publick Thankſgiving be kept and obſerved in all the Churches of this His <hi>Ma<g ref="char:EOLhyphen"/>jeſties</hi> Antient Kingdom, on the reſpective Days after-ſpecified, <hi>viz.</hi> Thoſe in the Dioceſs of <hi>Edinburgh,</hi> and the three <hi>Lothians,</hi> on <hi>Thurſday</hi> the 21. day of <hi>June</hi> inſtant; and in all the other Paroch-Churches of the Kingdom on the <hi>Thurſday</hi> thereafter, being the 28. of the ſame Mo<g ref="char:EOLhyphen"/>neth. And VVe, by warrant foreſaid, do accordingly Require and Command the moſt Re<g ref="char:EOLhyphen"/>verend, and the right Reverend, the Arch-biſhops and Biſhops, to take care that Intimation be made hereof, by the Miniſters Reading the ſame from their Pulpits, the Lords-day imme<g ref="char:EOLhyphen"/>diatly preceeding the ſaid days of Thankſgiving and Solemnity <hi>reſpectivè,</hi> and that in all the Paroch-Churches within their Dioceſſes, the ſaid Thankſgiving be accordingly Celebrated; and VVe Require and Command the Magiſtrats of all Burghs-Royal, that they cauſe the ſaid Thankſgiving and Solemnity be obſerved with all ſuitable marks of Joy and Congratula<g ref="char:EOLhyphen"/>tion within their reſpective Burghs. And Ordain the Lyon King at Arms, and his Brethren Heraulds, Macers of Council, and Purſevants, forthwith to paſs to the Mercat-Croſs of <hi>Edin<g ref="char:EOLhyphen"/>burgh,</hi> and make Publication of theſe Preſents.  Extracted forth of the Records of Privy Council, by me </p>
+            <closer>
+               <signed>
+                  <hi>WILL PATERSON,</hi> Cls. Sti. Concilii.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
